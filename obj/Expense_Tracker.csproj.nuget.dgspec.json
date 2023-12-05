@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emrek\\Masaüstü\\weees\\Expense_Tracker\\Expense_Tracker.csproj": {}
+    "C:\\Users\\emrek\\Masaüstü\\weees\\mvc-pst\\4MVC-PETA\\Expense_Tracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emrek\\Masaüstü\\weees\\Expense_Tracker\\Expense_Tracker.csproj": {
+    "C:\\Users\\emrek\\Masaüstü\\weees\\mvc-pst\\4MVC-PETA\\Expense_Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emrek\\Masaüstü\\weees\\Expense_Tracker\\Expense_Tracker.csproj",
+        "projectUniqueName": "C:\\Users\\emrek\\Masaüstü\\weees\\mvc-pst\\4MVC-PETA\\Expense_Tracker.csproj",
         "projectName": "Expense_Tracker",
-        "projectPath": "C:\\Users\\emrek\\Masaüstü\\weees\\Expense_Tracker\\Expense_Tracker.csproj",
+        "projectPath": "C:\\Users\\emrek\\Masaüstü\\weees\\mvc-pst\\4MVC-PETA\\Expense_Tracker.csproj",
         "packagesPath": "C:\\Users\\emrek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\emrek\\Masaüstü\\weees\\Expense_Tracker\\obj\\",
+        "outputPath": "C:\\Users\\emrek\\Masaüstü\\weees\\mvc-pst\\4MVC-PETA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\emrek\\AppData\\Roaming\\NuGet\\NuGet.Config",
